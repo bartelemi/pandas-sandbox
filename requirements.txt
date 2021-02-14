@@ -1,3 +1,7 @@
 jupyter
+matplotlib
 pandas
 ipykernel
+# Optional for extended pandas I/O.
+# tables
+# openpyxl
